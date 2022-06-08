@@ -1,7 +1,9 @@
+CODIGO HTML
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Botoes animados</title>
+    <title>Botoes animados HTML </title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="stylesheet" href="css/main.css">
